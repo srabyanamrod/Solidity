@@ -1,5 +1,5 @@
 // Letscoins ICO
-
+//My Coin's Smart Contract
 // Version of compiler
 pragma solidity ^0.4.11;
 
